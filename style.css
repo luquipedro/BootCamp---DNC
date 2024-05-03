@@ -271,7 +271,7 @@
             
         }
 
-        #menu a{
+        #menusuperior a{
             display: flex;
             align-items: center;
             height: 50px;
@@ -302,6 +302,20 @@
         .checkbox-itens label{
             font-size: 17px;
         }
+
+        /* Footer */
+        footer .linha1{
+            flex-direction: column;
+        }
+
+        footer .endereço{
+            width: 95%;
+            margin-bottom: 20px;
+        }
+
+
+
+
     }
 
 
